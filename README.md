@@ -11,3 +11,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=P0KiD0Ki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> 
 -->
  </div>
+
+![snake gif](https://github.com/P0KiD0Ki/P0KiD0Ki/blob/output/github-contribution-grid-snake.svg)
