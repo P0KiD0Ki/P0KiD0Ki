@@ -12,6 +12,4 @@
 -->
  </div>
 
-![snake gif](https://github.com/P0KiD0Ki/P0KiD0Ki/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake Light](https://github.com/P0KiD0Ki/P0KiD0Ki/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/P0KiD0Ki/P0KiD0Ki/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![snake gif](https://github.com/P0KiD0Ki/P0KiD0Ki/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
